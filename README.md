@@ -23,17 +23,6 @@ Uses a ServerListener thread to constantly listen for messages from the server
 
 Includes simple classes for managing and observing server messages
 
-🧱 Project Structure
-├── Client.java
-├── Client.class
-├── Client$ClientManager.class
-├── Client$ClientObserver.class
-├── Client$ServerListener.class
-├── Server.java
-├── Server.class
-├── Server$ClientHandler.class
-├── Server$1.class
-
 Key Classes
 Server.java
 
